@@ -1,2 +1,2 @@
 # jfkz's homepage repo
-Look here: http://jfkz.ru/
+Look here: http://jfkz.github.io/
